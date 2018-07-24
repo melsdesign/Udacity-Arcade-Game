@@ -7,7 +7,7 @@ This game is similar game of the classic "frogger" game. Like Frogger, you move 
 I built this game as part of the Udacity Front-End Web Developer Nanodegree program
 This is project 4 of the Google Udacity Frontend Nanodegree Google Scholarship,and it is one of the javascript challenges ;)
 
-## Play this game here : https://melsdesign.github.io/Udacity-arcade-game/
+## Play this game here : https://melsdesign.github.io/Udacity-Arcade-Game/
 
 # How to play
 There are 3 areas of this game world:
